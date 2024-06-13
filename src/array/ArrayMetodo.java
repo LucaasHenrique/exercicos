@@ -1,4 +1,4 @@
-package array.array;
+package array;
 import java.util.Scanner;
 
 public class ArrayMetodo {
